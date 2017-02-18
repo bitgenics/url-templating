@@ -1,0 +1,24 @@
+{
+  "name": "url-templating",
+  "version": "1.0.0",
+  "description": "Tiny library to create URLs from templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitgenics/url-templating.git"
+  },
+  "keywords": [
+    "url",
+    "template",
+    "encoding"
+  ],
+  "author": "Erwin van der Koogh <info@bitgenics.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitgenics/url-templating/issues"
+  },
+  "homepage": "https://github.com/bitgenics/url-templating#readme"
+}
